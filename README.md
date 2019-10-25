@@ -1,14 +1,18 @@
 # autokeras
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/phossen/autokeras/blob/master/AutoKeras.ipynb)
+
 This repository contains the code for experiments with autokeras, analyzing the quality and performance of the generated models in comparison to handcrafted ones.
 
-What does the structure of the generated networks look like? How is the quality compared to handmade nets?
+Main questions:
+* What does the structure of the generated networks look like?
+* How is the quality compared to handmade nets?
 
 ## General Information
 * Python + Tensorflow
 * Implementierung ist abzugeben
 * Paper englisch oder deutsch?
 * Autokeras version 0.4 or 1.0?
-* Data Sets freie Wahl, medizin?
+* Data Sets freie Wahl - Medizin?
 
 ### Appointments
 * 15.10. – Einführung
@@ -37,11 +41,6 @@ What does the structure of the generated networks look like? How is the quality 
 * 24 Minuten (12min p.P.)
 * 5 Minuten moderierte Fragerunde
 * Keine Formatvorgaben
-
-## Instructions
-1. Install Python 3.6
-2. Install autokeras using `pip3 install autokeras`
-3. Test installation using `Test.ipynb`
 
 ## Literature
 https://arxiv.org/abs/1806.10282
