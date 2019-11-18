@@ -10,9 +10,7 @@ Main questions:
 ## General Information
 * Python + Tensorflow
 * Implementierung ist abzugeben
-* Paper englisch oder deutsch?
-* Autokeras version 0.4 or 1.0?
-* Data Sets freie Wahl - Medizin?
+* Welche data sets?
 
 ### Appointments
 * 15.10. – Einführung
@@ -43,8 +41,8 @@ Main questions:
 * Keine Formatvorgaben
 
 ## Literature
-https://arxiv.org/abs/1806.10282
+* https://arxiv.org/abs/1806.10282
 
 ## Useful links
-https://github.com/keras-team/autokeras
-https://autokeras.com/
+* https://github.com/keras-team/autokeras
+* https://autokeras.com/
