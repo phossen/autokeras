@@ -7,42 +7,28 @@ Main questions:
 * What does the structure of the generated networks look like?
 * How is the quality compared to handmade nets?
 
-## General Information
-* Python + Tensorflow
-* Implementierung ist abzugeben
-* Welche data sets?
+## Appointments
+* 15.10. – Introduction
+* 29.10. – Optional Q&A
+* 03.12. – Submission of the paper
+* 17.12. – Submission of the corrections
+* 12.01. – Submission of the reviewed paper
+* 14.01. – 16 – 19 Uhr Presentations
+* 21.01. – 16 – 19 Uhr Presentations
 
-### Appointments
-* 15.10. – Einführung
-* Danach selbstständiges Arbeiten, bei Fragen: StudIP Forum
-* 29.10. – Extra Termin für Fragen (optionale Teilnahme)
-* 03.12. (acht Wochen) – Abgabe der Ausarbeitungen
-* 17.12. – Abgabe der gegenseitigen Korrekturen
-* 12.01. – Abgabe der korrigierten Version
-* Di, 14.01., 16 – 19 Uhr Präsentationen
-* Di, 21.01., 16 – 19 Uhr Präsentationen
-
-### Paper
-* Wichtigste Teil des Projekts!
+## Paper
 * Format: LNCS Style
-* Mit LaTeX oder Word
-* Aufbau wie wissenschaftliches Paper
-* Abstract
-* Introduction
-* Topic
-* Experimental Results
-* Conclusions
-* 8 Seiten (12: dreier Gruppe) - max. 2 Seiten mehr
-* inkl. Referenzen
+* LaTeX or Word
+* Structured like scientific paper (Abstract, Introduction, Topic, Experimental Results, Conclusions)
+* 8 pages - max. 2 more
+* incl. references
 
-### Presentation
-* 24 Minuten (12min p.P.)
-* 5 Minuten moderierte Fragerunde
-* Keine Formatvorgaben
-
-## Literature
-* https://arxiv.org/abs/1806.10282
+## Presentation
+* 24 minutes (12 minutes p.P.)
+* 5 minutes Q&A
+* No formal guidelines
 
 ## Useful links
+* https://arxiv.org/abs/1806.10282
 * https://github.com/keras-team/autokeras
 * https://autokeras.com/
